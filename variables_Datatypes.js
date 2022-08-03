@@ -1,0 +1,11 @@
+console.log("Hello World", "Hi");
+var undef;
+var names = "santhosh";
+var age = 23;
+var percent = 98.29;
+var lname = null;
+var names = "santhoshs";
+console.log(undef, typeof undef);
+console.log(names, typeof names);
+console.log(age, typeof age);
+console.log();
